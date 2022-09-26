@@ -13,7 +13,7 @@ def action():
     destroy(b, delay=0.7)
 
 def action2():
-    b = Button(scale=(.5, .25), text=' Se me atacr eu vou atacar ')
+    b = Button(scale=(.5, .25), text=' Se me atacar eu vou atacar ')
     destroy(b, delay=0.7)
 
 
